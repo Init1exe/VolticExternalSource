@@ -1,0 +1,16 @@
+﻿  menu.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\menu.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui_demo.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui_demo.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui_draw.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui_draw.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui_impl_dx9.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui_impl_dx9.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui_impl_win32.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui_impl_win32.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  imgui_widgets.cpp
+C:\Users\1nit1\Desktop\ExternalPasto\ImGui\imgui_widgets.cpp : fatal error C1051: el archivo de base de datos de programa, 'C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\vc142.pdb', tiene un formato obsoleto; elimínelo y vuelva a compilar
+  Generando código...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(687,5): warning MSB8015: Ninguno de los archivos de código fuente está actualizado: forzando la recompilación de todos los archivos de código fuente porque el contenido de "C:\Users\1nit1\Desktop\ExternalPasto\x64\Debug\Project1.tlog\CL.command.1.tlog" no es válido.
